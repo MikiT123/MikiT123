@@ -1,4 +1,7 @@
 ## Hi there 👋
+Hello! My name is Michaela Tang and I am a senior at the Academy for Information Technology. I can program in HTML, Java, Python, C#, and PHP.
+In the future, I would like to work as a Cybersecurity Engineer.
+I hope to collaborate with others and build on my programming skills using GitHub.
 
 <!--
 **MikiT123/MikiT123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
