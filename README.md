@@ -8,9 +8,15 @@ I enjoy playing the piano, and I love working out in my free time.
 I love swimming, and am on the varsity team for my high school.
 Game design is also something I wish I had more time for; I have fun designing 2D games in Unity using C#.
 
+## Volunteering
+I teach middle schoolers how to code at the local library, and help seniors with technology. I help coach and teach The Mighty Ducks, a special olympics swim team.
+
 ## Professional Experiences
 I  have worked at the Lift and Shift Foundation, where I created a CAPTCHA with accessibility features for the visually impaired.
 I also work as a Water Safety Instructor (WSI) at the Jewish Community Center of Central New Jersey. I teach people of all ages and special needs children.
+
+## Certifications
+I am certified in CompTIA Security+, CompTIA ITF+, Swim Whisperers® Adaptive Aquatics, American Red Cross Water Safety Instructor®, and Red Cross CPR/AED.
 
 <!--
 **MikiT123/MikiT123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
